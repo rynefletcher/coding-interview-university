@@ -252,7 +252,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [X] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [X] How to Get a Job at the Big 4:
     - [X] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-    - [ ] [Updated How to work at the big 4 (video)](https://www.youtube.com/watch?v=6790FVXWBw8)
+    - [X] [Updated How to work at the big 4 (video)](https://www.youtube.com/watch?v=6790FVXWBw8)
 - [ ] Cracking The Coding Interview Set 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
